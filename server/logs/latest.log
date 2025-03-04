@@ -1,0 +1,65 @@
+[00:06:12] [Server thread/INFO]: Mapicc4444 lost connection: Disconnected
+[00:06:12] [Server thread/INFO]: Mapicc4444 left the game.
+[00:31:45] [Thread-15/INFO]: UUID of player Mapicc4444 is 69717e5d-2575-3f7d-9236-c5fcaa5c4567
+[00:31:45] [Server thread/INFO]: Mapicc4444[/[0:0:0:0:0:0:0:1]:33026] logged in with entity id 7005 at ([world]-147.30000001192093, 72.0, 642.3000000119209)
+[00:33:48] [Server thread/INFO]: Mapicc4444 lost connection: Disconnected
+[00:33:48] [Server thread/INFO]: Mapicc4444 left the game.
+[00:34:32] [Thread-17/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[00:34:32] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:43974] logged in with entity id 7225 at ([world]12.276154417119706, 72.0, 359.99131021545526)
+[00:36:54] [Thread-18/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:36:54] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:60588] logged in with entity id 7554 at ([world]124.96417973581259, 74.58230961125521, 295.80065026581485)
+[00:37:08] [Server thread/INFO]: fredbear2022 lost connection: Timed out
+[00:37:08] [Server thread/INFO]: fredbear2022 left the game.
+[00:40:15] [Thread-19/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[00:40:15] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:59570] logged in with entity id 8296 at ([world]50.419825700763056, 69.0, 385.495791169287)
+[00:40:53] [Server thread/INFO]: Invisibleman has just earned the achievement [Taking Inventory]
+[00:41:01] [Server thread/INFO]: fredbear2022 has just earned the achievement [Cow Tipper]
+[00:43:58] [Async Chat Thread - #0/INFO]: <Invisibleman> 89 294[m
+
+[00:44:20] [Server thread/INFO]: Invisibleman has just earned the achievement [Getting Wood]
+[00:44:32] [Thread-20/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[00:44:32] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:33306] logged in with entity id 10092 at ([world]171.5, 65.0, 250.5)
+[00:45:02] [Server thread/INFO]: Begon_99 lost connection: Login timed out!
+[00:45:02] [Server thread/INFO]: Begon_99 left the game.
+[00:45:02] [Server thread/WARN]: handleDisconnection() called twice
+[00:45:06] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[00:45:06] [Server thread/INFO]: Invisibleman left the game.
+[01:03:36] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[01:03:36] [Server thread/INFO]: fredbear2022 left the game.
+[01:10:33] [Thread-22/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:10:33] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:58840] logged in with entity id 10973 at ([world]174.01420677943273, 67.0, 365.9588742055303)
+[01:10:57] [Thread-23/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[01:10:57] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:46696] logged in with entity id 11077 at ([world]171.5, 65.0, 250.5)
+[01:12:03] [Server thread/INFO]: Begon_99 issued server command: /msg Invisibleman cord?
+[01:12:21] [Thread-24/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[01:12:21] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:32998] logged in with entity id 11496 at ([world]174.5, 63.0, 256.5)
+[01:12:57] [Async Chat Thread - #1/INFO]: <Mapicc444> asem i am aliabdel[m
+
+[01:13:03] [Async Chat Thread - #1/INFO]: <Invisibleman> papaglili[m
+
+[01:13:09] [Thread-25/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[01:13:09] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:52770] logged in with entity id 11533 at ([world]220.46045979191916, 70.0, 592.512796710181)
+[01:13:20] [Async Chat Thread - #1/INFO]: <Mapicc444> didiy[m
+
+[01:13:24] [Server thread/INFO]: Mapicc444 was slain by Zombie
+[01:13:25] [Async Chat Thread - #1/INFO]: <fredbear2022> diddy[m
+
+[01:13:38] [Async Chat Thread - #1/INFO]: <fredbear2022> abdulrahamn[m
+
+[01:13:42] [Async Chat Thread - #1/INFO]: <fredbear2022> what is ur cordinates[m
+
+[01:13:48] [Server thread/INFO]: Mapicc444 issued server command: /tp fred
+[01:13:58] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[01:13:58] [Server thread/INFO]: Mapicc444 left the game.
+[01:14:22] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[01:14:22] [Server thread/INFO]: Invisibleman left the game.
+[01:15:41] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[01:15:41] [Server thread/INFO]: fredbear2022 left the game.
+[01:18:02] [Server thread/INFO]: Begon_99 has just earned the achievement [Taking Inventory]
+[01:18:43] [Server thread/INFO]: Begon_99 has just earned the achievement [Getting Wood]
+[01:20:07] [Server thread/INFO]: Begon_99 lost connection: Timed out
+[01:20:07] [Server thread/INFO]: Begon_99 left the game.
+[01:25:36] [Thread-26/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[01:25:36] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:56602] logged in with entity id 13395 at ([world]176.500652742512, 70.0, 216.24937364652482)
+[01:26:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+
