@@ -1,65 +1,1295 @@
-[00:06:12] [Server thread/INFO]: Mapicc4444 lost connection: Disconnected
-[00:06:12] [Server thread/INFO]: Mapicc4444 left the game.
-[00:31:45] [Thread-15/INFO]: UUID of player Mapicc4444 is 69717e5d-2575-3f7d-9236-c5fcaa5c4567
-[00:31:45] [Server thread/INFO]: Mapicc4444[/[0:0:0:0:0:0:0:1]:33026] logged in with entity id 7005 at ([world]-147.30000001192093, 72.0, 642.3000000119209)
-[00:33:48] [Server thread/INFO]: Mapicc4444 lost connection: Disconnected
-[00:33:48] [Server thread/INFO]: Mapicc4444 left the game.
-[00:34:32] [Thread-17/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
-[00:34:32] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:43974] logged in with entity id 7225 at ([world]12.276154417119706, 72.0, 359.99131021545526)
-[00:36:54] [Thread-18/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
-[00:36:54] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:60588] logged in with entity id 7554 at ([world]124.96417973581259, 74.58230961125521, 295.80065026581485)
-[00:37:08] [Server thread/INFO]: fredbear2022 lost connection: Timed out
-[00:37:08] [Server thread/INFO]: fredbear2022 left the game.
-[00:40:15] [Thread-19/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
-[00:40:15] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:59570] logged in with entity id 8296 at ([world]50.419825700763056, 69.0, 385.495791169287)
-[00:40:53] [Server thread/INFO]: Invisibleman has just earned the achievement [Taking Inventory]
-[00:41:01] [Server thread/INFO]: fredbear2022 has just earned the achievement [Cow Tipper]
-[00:43:58] [Async Chat Thread - #0/INFO]: <Invisibleman> 89 294[m
+[00:01:46] [Server thread/INFO]: Mapicc444 issued server command: /home home
+[00:01:59] [Server thread/INFO]: Mapicc444 issued server command: /tpahere beastkiller
+[00:02:06] [Server thread/INFO]: beastkiller issued server command: /tpaccept
+[00:03:09] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[00:03:09] [Server thread/INFO]: Mapicc444 left the game.
+[00:03:14] [Server thread/INFO]: beastkiller lost connection: Disconnected
+[00:03:14] [Server thread/INFO]: beastkiller left the game.
+[00:24:24] [Thread-26/INFO]: UUID of player beastkiller is 0a786d5d-0306-3132-8792-6699daf2a58a
+[00:24:24] [Server thread/INFO]: beastkiller[/[0:0:0:0:0:0:0:1]:40210] logged in with entity id 16374 at ([world]994.3346275521259, 15.0625, 1175.7064618827055)
+[00:24:31] [Thread-27/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[00:24:31] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:40862] logged in with entity id 16399 at ([world]990.3667385742018, 15.0625, 1178.204773994614)
+[00:26:11] [Server thread/INFO]: Mapicc444 issued server command: /home home
+[00:26:53] [Server thread/INFO]: Mapicc444 issued server command: /home home3
+[00:27:54] [Thread-28/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[00:27:54] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:33476] logged in with entity id 16797 at ([world]-17.30975008577034, 28.0, 2.9755002102354653)
+[00:27:59] [Server thread/INFO]: Mapicc444 issued server command: /home home
+[00:28:02] [Async Chat Thread - #5/INFO]: <Ezzprogamer769> hi[m
 
-[00:44:20] [Server thread/INFO]: Invisibleman has just earned the achievement [Getting Wood]
-[00:44:32] [Thread-20/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
-[00:44:32] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:33306] logged in with entity id 10092 at ([world]171.5, 65.0, 250.5)
-[00:45:02] [Server thread/INFO]: Begon_99 lost connection: Login timed out!
-[00:45:02] [Server thread/INFO]: Begon_99 left the game.
-[00:45:02] [Server thread/WARN]: handleDisconnection() called twice
-[00:45:06] [Server thread/INFO]: Invisibleman lost connection: Disconnected
-[00:45:06] [Server thread/INFO]: Invisibleman left the game.
-[01:03:36] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
-[01:03:36] [Server thread/INFO]: fredbear2022 left the game.
-[01:10:33] [Thread-22/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
-[01:10:33] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:58840] logged in with entity id 10973 at ([world]174.01420677943273, 67.0, 365.9588742055303)
-[01:10:57] [Thread-23/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
-[01:10:57] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:46696] logged in with entity id 11077 at ([world]171.5, 65.0, 250.5)
-[01:12:03] [Server thread/INFO]: Begon_99 issued server command: /msg Invisibleman cord?
-[01:12:21] [Thread-24/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
-[01:12:21] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:32998] logged in with entity id 11496 at ([world]174.5, 63.0, 256.5)
-[01:12:57] [Async Chat Thread - #1/INFO]: <Mapicc444> asem i am aliabdel[m
+[00:28:04] [Async Chat Thread - #5/INFO]: <Mapicc444> hi[m
 
-[01:13:03] [Async Chat Thread - #1/INFO]: <Invisibleman> papaglili[m
+[00:28:13] [Async Chat Thread - #5/INFO]: <Mapicc444> i am ali[m
 
-[01:13:09] [Thread-25/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
-[01:13:09] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:52770] logged in with entity id 11533 at ([world]220.46045979191916, 70.0, 592.512796710181)
-[01:13:20] [Async Chat Thread - #1/INFO]: <Mapicc444> didiy[m
+[00:28:13] [Async Chat Thread - #5/INFO]: <Ezzprogamer769> hi mapic i mean ali[m
 
-[01:13:24] [Server thread/INFO]: Mapicc444 was slain by Zombie
-[01:13:25] [Async Chat Thread - #1/INFO]: <fredbear2022> diddy[m
+[00:28:16] [Async Chat Thread - #5/INFO]: <Ezzprogamer769> ik[m
 
-[01:13:38] [Async Chat Thread - #1/INFO]: <fredbear2022> abdulrahamn[m
+[00:28:23] [Thread-29/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[00:28:24] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:44098] logged in with entity id 16879 at ([world]521.6999999880791, 58.0, 8.300000011920927)
+[00:29:11] [Server thread/INFO]: Mapicc444 issued server command: /tpa beastkiller
+[00:29:16] [Server thread/INFO]: beastkiller issued server command: /tpaccept
+[00:30:09] [Thread-31/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:30:10] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:33198] logged in with entity id 17288 at ([world]991.4636142585096, 8.0, 1043.320250011921)
+[00:30:20] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa achillguy2012
+[00:30:27] [Server thread/INFO]: achillguy2012 issued server command: /tpaccept
+[00:30:36] [Thread-32/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[00:30:36] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:34390] logged in with entity id 17496 at ([world]274.3655914176542, 66.0, 470.2004683704077)
+[00:30:40] [Thread-33/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[00:30:40] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:34394] logged in with entity id 17589 at ([world]178.69999998807907, 72.0, 529.2170830652481)
+[00:30:40] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:30:40] [Server thread/INFO]: Invisibleman left the game.
+[00:30:40] [Server thread/WARN]: handleDisconnection() called twice
+[00:30:41] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[00:30:41] [Server thread/INFO]: achillguy2012 left the game.
+[00:30:43] [Thread-34/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:30:43] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:34406] logged in with entity id 17674 at ([world]991.008512841519, 8.0, 1043.8125946615105)
+[00:30:43] [Thread-35/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[00:30:43] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:34414] logged in with entity id 17683 at ([world]570.1764888025523, 65.0, 11.726350903726573)
+[00:30:56] [Server thread/INFO]: BenRui issued server command: /tpa achillguy2012
+[00:31:14] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:31:14] [Server thread/INFO]: Invisibleman left the game.
+[00:31:14] [Server thread/WARN]: handleDisconnection() called twice
+[00:31:15] [Server thread/INFO]: achillguy2012 issued server command: /tpaccept
+[00:31:26] [Thread-36/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:31:26] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:51510] logged in with entity id 17974 at ([world]991.008512841519, 8.0, 1043.8125946615105)
+[00:31:31] [Thread-37/INFO]: UUID of player 3LYAS_X is 3514b067-f5f6-34c2-9fec-fe3e50e208ee
+[00:31:31] [Server thread/INFO]: 3LYAS_X[/[0:0:0:0:0:0:0:1]:51524] logged in with entity id 18100 at ([world]196.19937378158707, 5.0, 614.6165518683839)
+[00:31:31] [Server thread/INFO]: beastkiller tried to swim in lava
+[00:31:44] [Server thread/INFO]: Invisibleman issued server command: /homebase
+[00:31:47] [Server thread/INFO]: Invisibleman issued server command: /home base
+[00:31:48] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[00:31:57] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:31:57] [Server thread/INFO]: Invisibleman left the game.
+[00:31:57] [Server thread/WARN]: handleDisconnection() called twice
+[00:31:59] [Server thread/INFO]: 3LYAS_X issued server command: /tpa fredbear2022
+[00:32:03] [Thread-38/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:32:03] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:36498] logged in with entity id 18383 at ([world]991.1446884832762, 8.0, 1043.8426219958753)
+[00:32:09] [Server thread/INFO]: Mapicc444 issued server command: /home home
+[00:32:25] [Server thread/INFO]: 3LYAS_X issued server command: /home chicken
+[00:32:33] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:32:33] [Server thread/INFO]: Invisibleman left the game.
+[00:32:33] [Server thread/WARN]: handleDisconnection() called twice
+[00:32:36] [Thread-39/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:32:37] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:55356] logged in with entity id 18773 at ([world]991.1446884832762, 8.0, 1043.8426219958753)
+[00:32:38] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[00:32:38] [Server thread/INFO]: Mapicc444 left the game.
+[00:32:51] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[00:32:51] [Server thread/INFO]: Invisibleman left the game.
+[00:32:56] [Thread-40/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:32:57] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:56494] logged in with entity id 18957 at ([world]991.2295081567107, 8.0, 1044.642417760271)
+[00:32:58] [Thread-41/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[00:32:58] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:56496] logged in with entity id 19027 at ([world]991.8735896296917, 15.0625, 1177.7383989722573)
+[00:33:03] [Server thread/INFO]: Mapicc444 issued server command: /home home
+[00:33:27] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:33:27] [Server thread/INFO]: Invisibleman left the game.
+[00:33:27] [Server thread/WARN]: handleDisconnection() called twice
+[00:33:43] [Server thread/INFO]: Begon_99 issued server command: /tpa Mapic444
+[00:33:49] [Server thread/INFO]: Begon_99 issued server command: /tpa Mapicc444
+[00:33:50] [Async Chat Thread - #6/INFO]: <3LYAS_X> who wanna 1v1[m
 
-[01:13:42] [Async Chat Thread - #1/INFO]: <fredbear2022> what is ur cordinates[m
+[00:33:59] [Async Chat Thread - #6/INFO]: <achillguy2012> um al dina[m
 
-[01:13:48] [Server thread/INFO]: Mapicc444 issued server command: /tp fred
-[01:13:58] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
-[01:13:58] [Server thread/INFO]: Mapicc444 left the game.
-[01:14:22] [Server thread/INFO]: Invisibleman lost connection: Disconnected
-[01:14:22] [Server thread/INFO]: Invisibleman left the game.
-[01:15:41] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
-[01:15:41] [Server thread/INFO]: fredbear2022 left the game.
-[01:18:02] [Server thread/INFO]: Begon_99 has just earned the achievement [Taking Inventory]
-[01:18:43] [Server thread/INFO]: Begon_99 has just earned the achievement [Getting Wood]
-[01:20:07] [Server thread/INFO]: Begon_99 lost connection: Timed out
-[01:20:07] [Server thread/INFO]: Begon_99 left the game.
-[01:25:36] [Thread-26/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
-[01:25:36] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:56602] logged in with entity id 13395 at ([world]176.500652742512, 70.0, 216.24937364652482)
-[01:26:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[00:34:02] [Server thread/INFO]: Mapicc444 issued server command: /tpaccept
+[00:34:05] [Async Chat Thread - #6/INFO]: <Begon_99> ali are u in the base[m
 
+[00:34:14] [Server thread/INFO]: 3LYAS_X issued server command: /tpa begon_99
+[00:34:19] [Server thread/INFO]: Begon_99 issued server command: /tpaccept
+[00:34:29] [Server thread/INFO]: 3LYAS_X issued server command: /sethome q
+[00:34:41] [Server thread/INFO]: achillguy2012 was slain by Zombie
+[00:34:54] [Thread-42/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:34:54] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:60422] logged in with entity id 20412 at ([world]991.2077302907766, 8.0, 1044.9536909512885)
+[00:34:59] [Async Chat Thread - #6/INFO]: <Mapicc444> stop[m
+
+[00:35:12] [Server thread/INFO]: Mapicc444 issued server command: /home home3
+[00:35:16] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[00:35:24] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:35:24] [Server thread/INFO]: Invisibleman left the game.
+[00:35:24] [Server thread/WARN]: handleDisconnection() called twice
+[00:35:33] [Thread-43/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:35:33] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:46462] logged in with entity id 20870 at ([world]991.2077302907766, 8.0, 1044.9536909512885)
+[00:35:46] [Server thread/INFO]: achillguy2012 issued server command: /back
+[00:35:48] [Server thread/INFO]: Mapicc444 issued server command: /home home
+[00:36:01] [Server thread/INFO]: beastkiller lost connection: Disconnected
+[00:36:01] [Server thread/INFO]: beastkiller left the game.
+[00:36:03] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:36:03] [Server thread/INFO]: Invisibleman left the game.
+[00:36:03] [Server thread/WARN]: handleDisconnection() called twice
+[00:36:08] [Thread-44/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:36:08] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:53188] logged in with entity id 21019 at ([world]991.2077302907766, 8.0, 1044.9536909512885)
+[00:36:13] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[00:36:13] [Server thread/INFO]: Mapicc444 left the game.
+[00:36:13] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[00:36:21] [Server thread/INFO]: achillguy2012 issued server command: /tpa BenRui
+[00:36:38] [Server thread/INFO]: BenRui issued server command: /tpaccept
+[00:36:38] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:36:38] [Server thread/INFO]: Invisibleman left the game.
+[00:36:38] [Server thread/WARN]: handleDisconnection() called twice
+[00:36:42] [Server thread/INFO]: 3LYAS_X lost connection: Disconnected
+[00:36:42] [Server thread/INFO]: 3LYAS_X left the game.
+[00:36:49] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[00:36:49] [Server thread/INFO]: achillguy2012 left the game.
+[00:36:52] [Thread-45/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:36:52] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:43540] logged in with entity id 21280 at ([world]991.2077302907766, 8.0, 1044.9536909512885)
+[00:37:02] [Server thread/INFO]: BenRui lost connection: Disconnected
+[00:37:02] [Server thread/INFO]: BenRui left the game.
+[00:37:22] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:37:22] [Server thread/INFO]: Invisibleman left the game.
+[00:37:22] [Server thread/WARN]: handleDisconnection() called twice
+[00:37:26] [Thread-46/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:37:26] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:53976] logged in with entity id 21408 at ([world]991.2077302907766, 8.0, 1044.9536909512885)
+[00:37:30] [Server thread/INFO]: Begon_99 issued server command: /sethome base
+[00:37:57] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:37:57] [Server thread/INFO]: Invisibleman left the game.
+[00:37:57] [Server thread/WARN]: handleDisconnection() called twice
+[00:38:01] [Thread-47/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:38:01] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:58704] logged in with entity id 21560 at ([world]991.2077302907766, 8.0, 1044.9536909512885)
+[00:38:18] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[00:38:18] [Server thread/INFO]: Ezzprogamer769 left the game.
+[00:38:27] [Server thread/INFO]: Begon_99 lost connection: Disconnected
+[00:38:27] [Server thread/INFO]: Begon_99 left the game.
+[00:38:31] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:38:31] [Server thread/INFO]: Invisibleman left the game.
+[00:38:31] [Server thread/WARN]: handleDisconnection() called twice
+[00:47:55] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[00:47:55] [Server thread/INFO]: fredbear2022 left the game.
+[00:48:02] [Thread-48/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[00:48:02] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:33816] logged in with entity id 21780 at ([world]991.2077302907766, 8.0, 1044.9536909512885)
+[00:48:32] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[00:48:32] [Server thread/INFO]: Invisibleman left the game.
+[00:48:32] [Server thread/WARN]: handleDisconnection() called twice
+[00:48:42] [Thread-49/INFO]: UUID of player 3LYAS_X is 3514b067-f5f6-34c2-9fec-fe3e50e208ee
+[00:48:42] [Server thread/INFO]: 3LYAS_X[/[0:0:0:0:0:0:0:1]:56322] logged in with entity id 21835 at ([world]194.91838412111264, 20.5, 604.7466259054193)
+[00:49:03] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[00:50:15] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[00:56:09] [Thread-50/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[00:56:09] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:44192] logged in with entity id 22340 at ([world]986.3349548576211, 15.0625, 1175.7839636582003)
+[00:56:15] [Server thread/INFO]: Begon_99 issued server command: /tpa Mapicc444
+[01:02:12] [Thread-52/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[01:02:13] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:40716] logged in with entity id 22661 at ([world]274.69999998807907, 66.0, 469.5366199482009)
+[01:02:17] [Server thread/INFO]: BenRui issued server command: /tpa achillguy2012
+[01:03:07] [Server thread/INFO]: BenRui issued server command: /back
+[01:03:46] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[01:05:07] [Server thread/INFO]: Usage: /ban <name> [reason ...]
+[01:05:12] [Server thread/INFO]: Usage: /op <player>
+[01:07:32] [Thread-53/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[01:07:32] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:42642] logged in with entity id 23033 at ([world]271.4533713539389, 66.0, 469.7279369963211)
+[01:08:14] [Thread-54/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[01:08:14] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:39788] logged in with entity id 23075 at ([world]992.6999999880791, 12.0, 1045.8861623544246)
+[01:08:43] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[01:08:43] [Server thread/INFO]: fredbear2022 left the game.
+[01:08:48] [Thread-55/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[01:08:48] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:35898] logged in with entity id 23138 at ([world]992.6999999880791, 12.0, 1045.8861623544246)
+[01:09:06] [Thread-56/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:09:06] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:49808] logged in with entity id 23237 at ([world]991.6999999880791, 9.200000047683716, 1044.535092096564)
+[01:09:28] [Thread-57/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[01:09:29] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:40564] logged in with entity id 23272 at ([world]170.66332207623654, 67.0, 6.913329614598247)
+[01:09:36] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[01:09:36] [Server thread/INFO]: Invisibleman left the game.
+[01:09:36] [Server thread/WARN]: handleDisconnection() called twice
+[01:09:43] [Thread-58/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:09:43] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:36656] logged in with entity id 23445 at ([world]991.6999999880791, 8.0, 1044.535092096564)
+[01:09:55] [Server thread/INFO]: dream769 lost connection: Disconnected
+[01:09:55] [Server thread/INFO]: dream769 left the game.
+[01:10:01] [Thread-59/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[01:10:01] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:53770] logged in with entity id 23618 at ([world]179.8965216043156, 68.0, 15.650709150339523)
+[01:10:01] [Server thread/INFO]: Begon_99 issued server command: /tpa 3LYAS_X
+[01:10:13] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[01:10:13] [Server thread/INFO]: Invisibleman left the game.
+[01:10:13] [Server thread/WARN]: handleDisconnection() called twice
+[01:10:14] [Server thread/INFO]: 3LYAS_X lost connection: Disconnected
+[01:10:14] [Server thread/INFO]: 3LYAS_X left the game.
+[01:10:19] [Thread-60/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:10:19] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:34658] logged in with entity id 24211 at ([world]991.6999999880791, 8.0, 1044.9350921025245)
+[01:10:36] [Server thread/INFO]: Begon_99 issued server command: /home 1
+[01:10:50] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[01:10:50] [Server thread/INFO]: Invisibleman left the game.
+[01:10:50] [Server thread/WARN]: handleDisconnection() called twice
+[01:11:16] [Thread-61/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:11:16] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:53468] logged in with entity id 24515 at ([world]991.3000000119209, 7.0, 1044.699999988079)
+[01:11:26] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[01:11:26] [Server thread/INFO]: Invisibleman left the game.
+[01:11:34] [Thread-62/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:11:34] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:52176] logged in with entity id 24538 at ([world]991.3000000119209, 7.0, 1044.699999988079)
+[01:12:04] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[01:12:04] [Server thread/INFO]: Invisibleman left the game.
+[01:12:04] [Server thread/WARN]: handleDisconnection() called twice
+[01:12:14] [Thread-63/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:12:14] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:53300] logged in with entity id 25182 at ([world]991.4235658803825, 7.0, 1044.699999988079)
+[01:12:27] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[01:12:27] [Server thread/INFO]: Invisibleman left the game.
+[01:12:35] [Thread-64/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:12:35] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:58126] logged in with entity id 25476 at ([world]991.4235658803825, 7.0, 1044.699999988079)
+[01:12:42] [Server thread/INFO]: Invisibleman issued server command: /lo
+[01:12:44] [Thread-65/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[01:12:44] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:58138] logged in with entity id 25499 at ([world]987.3000000119209, 15.0625, 1177.376894215307)
+[01:12:47] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[01:12:47] [Server thread/INFO]: Invisibleman left the game.
+[01:12:59] [Thread-66/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:12:59] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:40672] logged in with entity id 26306 at ([world]991.4235658803825, 7.0, 1044.699999988079)
+[01:13:04] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[01:13:04] [Server thread/INFO]: Mapicc444 left the game.
+[01:13:25] [Server thread/INFO]: Invisibleman issued server command: /lo
+[01:13:28] [Server thread/INFO]: Invisibleman tried to swim in lava
+[01:13:32] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[01:13:32] [Server thread/INFO]: achillguy2012 left the game.
+[01:13:33] [Server thread/INFO]: dream769 issued server command: /set home
+[01:13:34] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[01:13:34] [Server thread/INFO]: Invisibleman left the game.
+[01:13:36] [Server thread/INFO]: dream769 lost connection: Disconnected
+[01:13:36] [Server thread/INFO]: dream769 left the game.
+[01:13:37] [Server thread/INFO]: BenRui lost connection: Disconnected
+[01:13:37] [Server thread/INFO]: BenRui left the game.
+[01:13:42] [Server thread/INFO]: Begon_99 lost connection: Disconnected
+[01:13:42] [Server thread/INFO]: Begon_99 left the game.
+[01:15:31] [Thread-67/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[01:15:31] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:50344] logged in with entity id 26623 at ([world]987.9660979217135, 15.0625, 1178.5201700404136)
+[01:16:14] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[01:16:14] [Server thread/INFO]: Mapicc444 left the game.
+[01:29:47] [Thread-68/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[01:29:47] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:34608] logged in with entity id 26929 at ([world]458.4693077697076, 67.0, 106.63032719658216)
+[01:29:53] [Server thread/INFO]: Ezzprogamer769 issued server command: /
+[01:30:54] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[01:30:54] [Server thread/INFO]: Ezzprogamer769 left the game.
+[01:34:18] [Thread-70/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[01:34:18] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:40168] logged in with entity id 27215 at ([world]177.08197105448932, 63.0, -198.61832329160944)
+[01:35:31] [Server thread/INFO]: dream769 lost connection: Disconnected
+[01:35:31] [Server thread/INFO]: dream769 left the game.
+[01:40:36] [Thread-71/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[01:40:36] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:42106] logged in with entity id 27505 at ([world]471.82487910647575, 61.0, 106.3532772141652)
+[01:40:39] [Thread-72/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[01:40:39] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:42120] logged in with entity id 27575 at ([world]139.23607326171847, 65.0, -238.7690063891572)
+[01:40:45] [Thread-73/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[01:40:45] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:58734] logged in with entity id 27720 at ([world]173.58177198577877, 88.0, 550.727672550717)
+[01:40:56] [Thread-74/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[01:40:56] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:56318] logged in with entity id 28555 at ([world]275.5858522636661, 66.0, 474.30000001192093)
+[01:41:15] [Thread-75/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[01:41:15] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:36868] logged in with entity id 28703 at ([world]995.5, 15.0625, 1176.5)
+[01:41:20] [Server thread/INFO]: Begon_99 issued server command: /sethome chest
+[01:41:33] [Server thread/INFO]: Begon_99 issued server command: /home chest
+[01:41:37] [Server thread/INFO]: Begon_99 issued server command: /home chest
+[01:41:40] [Server thread/INFO]: Begon_99 issued server command: /home chest
+[01:42:00] [Server thread/INFO]: Begon_99 issued server command: /delhome chest
+[01:42:01] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[01:42:01] [Server thread/INFO]: Ezzprogamer769 left the game.
+[01:42:06] [Server thread/INFO]: Begon_99 issued server command: /sethome chest
+[01:42:11] [Thread-76/INFO]: UUID of player 3LYAS_X is 3514b067-f5f6-34c2-9fec-fe3e50e208ee
+[01:42:11] [Server thread/INFO]: 3LYAS_X[/[0:0:0:0:0:0:0:1]:37556] logged in with entity id 29054 at ([world]197.69999998807907, 5.986081279258248, 616.6999999880791)
+[01:42:12] [Server thread/INFO]: Begon_99 issued server command: /home chest
+[01:42:13] [Server thread/INFO]: dream769 issued server command: /tpa BenRui
+[01:42:20] [Server thread/INFO]: BenRui issued server command: /tpaccept
+[01:42:28] [Server thread/INFO]: Begon_99 issued server command: /tpa 3LYAS_X
+[01:42:38] [Server thread/INFO]: 3LYAS_X issued server command: /tpaccept
+[01:42:38] [Server thread/INFO]: dream769 issued server command: /tpa BenRui
+[01:42:42] [Server thread/INFO]: BenRui issued server command: /tpaccept
+[01:43:19] [Server thread/INFO]: fredbear2022 issued server command: /
+[01:43:27] [Thread-77/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[01:43:27] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:41568] logged in with entity id 30239 at ([world]268.3084250432197, 66.0, 470.6825299012446)
+[01:43:33] [Async Chat Thread - #7/INFO]: <fredbear2022> amar[m
+
+[01:43:34] [Thread-78/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[01:43:35] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:46368] logged in with entity id 30409 at ([world]465.9280625711809, 32.0, 113.59673445379616)
+[01:43:48] [Server thread/INFO]: dream769 issued server command: /tpahere Ezzprogamer769
+[01:43:53] [Thread-79/INFO]: UUID of player PAPAJAY is 0619d903-d851-3349-ac35-290119043304
+[01:43:53] [Server thread/INFO]: PAPAJAY[/[0:0:0:0:0:0:0:1]:46136] logged in with entity id 30779 at ([world]176.5, 63.0, 252.5)
+[01:43:58] [Server thread/INFO]: achillguy2012 lost connection: Login timed out!
+[01:43:58] [Server thread/INFO]: achillguy2012 left the game.
+[01:43:58] [Server thread/WARN]: handleDisconnection() called twice
+[01:43:59] [Server thread/INFO]: PAPAJAY lost connection: Disconnected
+[01:43:59] [Server thread/INFO]: PAPAJAY left the game.
+[01:44:16] [Server thread/WARN]: dream769 moved wrongly!
+[01:44:16] [Server thread/WARN]: fredbear2022 moved wrongly!
+[01:44:16] [Server thread/WARN]: fredbear2022 moved wrongly!
+[01:44:16] [Server thread/WARN]: fredbear2022 moved wrongly!
+[01:44:39] [Server thread/INFO]: 3LYAS_X lost connection: Disconnected
+[01:44:39] [Server thread/INFO]: 3LYAS_X left the game.
+[01:44:59] [Thread-80/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[01:44:59] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:60100] logged in with entity id 31430 at ([world]268.30000001192093, 66.0, 470.30000001192093)
+[01:45:06] [Server thread/INFO]: fredbear2022 issued server command: /home base
+[01:45:23] [Server thread/INFO]: Begon_99 issued server command: /home base
+[01:45:37] [Server thread/INFO]: Invisibleman issued server command: /home xp
+[01:45:48] [Server thread/INFO]: Ezzprogamer769 has just earned the achievement [DIAMONDS!]
+[01:46:59] [Thread-81/INFO]: UUID of player 3LYAS_X is 3514b067-f5f6-34c2-9fec-fe3e50e208ee
+[01:46:59] [Server thread/INFO]: 3LYAS_X[/[0:0:0:0:0:0:0:1]:59988] logged in with entity id 32216 at ([world]194.57740813750817, 5.0, 615.614841511472)
+[01:47:47] [Async Chat Thread - #8/INFO]: <fredbear2022> hahahhahaha ur skin is black and u are begging[m
+
+[01:47:48] [Async Chat Thread - #8/INFO]: <fredbear2022> noob[m
+
+[01:48:37] [Thread-82/INFO]: UUID of player PapajayBEGON is 8beff03b-89dc-3711-8381-d62453f68d7d
+[01:48:37] [Server thread/INFO]: PapajayBEGON[/[0:0:0:0:0:0:0:1]:54732] logged in with entity id 32911 at ([world]162.5, 71.0, 255.5)
+[01:48:39] [Server thread/INFO]: PapajayBEGON lost connection: Disconnected
+[01:48:39] [Server thread/INFO]: PapajayBEGON left the game.
+[01:48:55] [Server thread/INFO]: 3LYAS_X lost connection: Disconnected
+[01:48:55] [Server thread/INFO]: 3LYAS_X left the game.
+[01:49:04] [Thread-83/INFO]: UUID of player 3LYAS_X is 3514b067-f5f6-34c2-9fec-fe3e50e208ee
+[01:49:04] [Server thread/INFO]: 3LYAS_X[/[0:0:0:0:0:0:0:1]:54020] logged in with entity id 33162 at ([world]196.30000001192093, 8.0, 610.5771176500477)
+[01:49:12] [Server thread/INFO]: Invisibleman issued server command: /home base
+[01:49:28] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[01:49:54] [Server thread/INFO]: Begon_99 issued server command: /home
+[01:49:58] [Server thread/INFO]: Begon_99 issued server command: /homes
+[01:50:13] [Server thread/INFO]: Invisibleman issued server command: /home xp
+[01:50:24] [Server thread/INFO]: Begon_99 issued server command: /tpa Invisibleman
+[01:50:28] [Server thread/INFO]: Invisibleman issued server command: /tpaccept
+[01:50:53] [Server thread/INFO]: Begon_99 issued server command: /sethome xp
+[01:51:00] [Async Chat Thread - #9/INFO]: <fredbear2022> i hate Ezzprogamer769[m
+
+[01:51:02] [Server thread/INFO]: fredbear2022 issued server command: /home exp
+[01:51:06] [Async Chat Thread - #9/INFO]: <Ezzprogamer769> no one asked[m
+
+[01:51:09] [Async Chat Thread - #9/INFO]: <3LYAS_X> i did[m
+
+[01:51:09] [Server thread/INFO]: Begon_99 issued server command: /home base
+[01:51:10] [Async Chat Thread - #9/INFO]: <achillguy2012> HEY DONT BULLY MY FRIEND[m
+
+[01:51:18] [Async Chat Thread - #9/INFO]: <Ezzprogamer769> who cares 3LYAS_X[m
+
+[01:51:20] [Server thread/INFO]: Invisibleman issued server command: /home
+[01:51:24] [Async Chat Thread - #9/INFO]: <3LYAS_X> "HEY DONT BULLY MY FRIEND" wallahi so cringe[m
+
+[01:51:26] [Async Chat Thread - #9/INFO]: <achillguy2012> he thinks he is cool[m
+
+[01:51:26] [Server thread/INFO]: dream769 issued server command: /sethome
+[01:51:28] [Server thread/INFO]: Invisibleman issued server command: /home base
+[01:51:32] [Async Chat Thread - #9/INFO]: <achillguy2012> ur not[m
+
+[01:51:38] [Server thread/INFO]: dream769 issued server command: /sethome home
+[01:51:41] [Server thread/INFO]: dream769 issued server command: /home
+[01:51:42] [Async Chat Thread - #9/INFO]: <achillguy2012> u just have something against me for no reason'[m
+
+[01:51:48] [Async Chat Thread - #9/INFO]: <achillguy2012> marth all yashfeyk[m
+
+[01:51:48] [Server thread/INFO]: dream769 issued server command: /home home
+[01:51:50] [Async Chat Thread - #9/INFO]: <3LYAS_X> cringe[m
+
+[01:51:53] [Server thread/INFO]: Begon_99 issued server command: /home xp
+[01:52:05] [Async Chat Thread - #9/INFO]: <achillguy2012> allhamudlliah allah gave me a helthy mind[m
+
+[01:52:13] [Async Chat Thread - #9/INFO]: <achillguy2012> healthy*[m
+
+[01:52:14] [Async Chat Thread - #9/INFO]: <3LYAS_X> dont lie to ur self[m
+
+[01:52:18] [Async Chat Thread - #9/INFO]: <fredbear2022> correct[m
+
+[01:52:42] [Server thread/INFO]: dream769 issued server command: /tpa BenRui
+[01:52:46] [Server thread/INFO]: BenRui issued server command: /tpaccept
+[01:52:57] [Server thread/INFO]: Invisibleman issued server command: /home base
+[01:53:05] [Server thread/INFO]: fredbear2022 issued server command: /give 64 diamonds
+[01:53:12] [Server thread/INFO]: fredbear2022 issued server command: /gamemode creative
+[01:53:13] [Server thread/INFO]: fredbear2022 issued server command: /gamemode creative
+[01:53:14] [Server thread/INFO]: fredbear2022 issued server command: /gamemode creative
+[01:53:55] [Async Chat Thread - #10/INFO]: <3LYAS_X> guys r u all sigmas[m
+
+[01:54:11] [Async Chat Thread - #10/INFO]: <achillguy2012> allah huma eny sayem[m
+
+[01:54:29] [Async Chat Thread - #10/INFO]: <3LYAS_X> allahuma yajeblak akl zay alnas[m
+
+[01:54:37] [Async Chat Thread - #10/INFO]: <fredbear2022> What?[m
+
+[01:54:46] [Server thread/INFO]: dream769 issued server command: /home home
+[01:54:50] [Async Chat Thread - #10/INFO]: <fredbear2022> wallah too strong[m
+
+[01:54:53] [Async Chat Thread - #10/INFO]: <achillguy2012> umak ma rabtak[m
+
+[01:55:02] [Server thread/INFO]: dream769 issued server command: /tpahere BenRui
+[01:55:02] [Async Chat Thread - #10/INFO]: <achillguy2012> qalel adab[m
+
+[01:55:03] [Async Chat Thread - #10/INFO]: <3LYAS_X> akalashi indy um[m
+
+[01:55:12] [Async Chat Thread - #10/INFO]: <3LYAS_X> mish zayak[m
+
+[01:55:22] [Async Chat Thread - #10/INFO]: <3LYAS_X> i like the silence[m
+
+[01:55:24] [Async Chat Thread - #10/INFO]: <3LYAS_X> goodboy[m
+
+[01:55:26] [Async Chat Thread - #10/INFO]: <achillguy2012> anat ahbal laenk arf andy um[m
+
+[01:55:35] [Server thread/INFO]: dream769 issued server command: /tpahere
+[01:55:38] [Async Chat Thread - #10/INFO]: <3LYAS_X> what[m
+
+[01:55:42] [Async Chat Thread - #10/INFO]: <achillguy2012> ZOD[m
+
+[01:55:43] [Async Chat Thread - #10/INFO]: <3LYAS_X> wallahi u suck at writing[m
+
+[01:55:52] [Server thread/INFO]: dream769 issued server command: /tpahere achillguy2012
+[01:56:07] [Async Chat Thread - #10/INFO]: <Begon_99> ezz team who wants iron sowrd sharpness 1 wallah i dont kill i will seee what u will trade with[m
+
+[01:56:09] [Server thread/INFO]: Ezzprogamer769 lost connection: Internal Exception: java.net.SocketException: Connection reset
+[01:56:09] [Server thread/INFO]: Ezzprogamer769 left the game.
+[01:56:25] [Async Chat Thread - #10/INFO]: <3LYAS_X> \[m
+
+[01:56:39] [Server thread/INFO]: dream769 lost connection: Disconnected
+[01:56:39] [Server thread/INFO]: dream769 left the game.
+[01:56:40] [Server thread/INFO]: Begon_99 issued server command: /home chest
+[01:56:52] [Server thread/INFO]: Begon_99 lost connection: Disconnected
+[01:56:52] [Server thread/INFO]: Begon_99 left the game.
+[01:57:07] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[01:57:07] [Server thread/INFO]: Invisibleman left the game.
+[01:57:07] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[01:57:07] [Server thread/INFO]: fredbear2022 left the game.
+[01:57:36] [Server thread/INFO]: BenRui fell from a high place
+[01:57:48] [Server thread/INFO]: BenRui issued server command: /back
+[01:58:08] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[01:58:08] [Server thread/INFO]: achillguy2012 left the game.
+[01:58:09] [Server thread/INFO]: BenRui lost connection: Disconnected
+[01:58:09] [Server thread/INFO]: BenRui left the game.
+[02:28:38] [Thread-85/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[02:28:38] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:41808] logged in with entity id 38080 at ([world]991.0531605623004, 15.0625, 1178.7221106485695)
+[02:28:43] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[02:28:43] [Server thread/INFO]: Mapicc444 left the game.
+[02:28:48] [Thread-86/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[02:28:48] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:46180] logged in with entity id 38165 at ([world]991.0531605623004, 15.0625, 1178.7221106485695)
+[02:29:59] [Server thread/INFO]: Mapicc444 issued server command: /tpa 3LYAS_X
+[02:30:27] [Async Chat Thread - #11/INFO]: <Mapicc444> 3lyas tp acc[m
+
+[02:30:29] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[02:30:29] [Server thread/INFO]: Mapicc444 left the game.
+[02:30:55] [Thread-88/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:30:55] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:40324] logged in with entity id 38367 at ([world]993.6083583620107, 14.0, 1181.5406316597723)
+[02:31:02] [Server thread/INFO]: 3LYAS_X lost connection: Disconnected
+[02:31:02] [Server thread/INFO]: 3LYAS_X left the game.
+[02:31:05] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:31:05] [Server thread/INFO]: Invisibleman left the game.
+[02:32:05] [Thread-89/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[02:32:05] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:34354] logged in with entity id 38438 at ([world]560.0066519170741, 15.0, 164.69999998807907)
+[02:32:12] [Async Chat Thread - #12/INFO]: <Ezzprogamer769> hi[m
+
+[02:32:15] [Async Chat Thread - #12/INFO]: <Ezzprogamer769> xD[m
+
+[02:34:05] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[02:34:05] [Server thread/INFO]: Ezzprogamer769 left the game.
+[02:36:04] [Thread-90/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[02:36:04] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:41314] logged in with entity id 38772 at ([world]250.81344698362713, 12.0, 435.31486816121327)
+[02:36:07] [Thread-91/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[02:36:07] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:38152] logged in with entity id 38828 at ([world]179.70140703427333, 24.0, 506.7078930732125)
+[02:40:24] [Thread-92/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[02:40:24] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:40278] logged in with entity id 40212 at ([world]270.66431709543275, 66.0, 476.3591037170989)
+[02:40:27] [Server thread/WARN]: BenRui moved wrongly!
+[02:40:27] [Server thread/WARN]: BenRui moved wrongly!
+[02:40:27] [Server thread/WARN]: BenRui moved wrongly!
+[02:40:49] [Server thread/INFO]: dream769 issued server command: /tpa BenRui
+[02:41:02] [Server thread/INFO]: dream769 issued server command: /
+[02:41:06] [Server thread/INFO]: BenRui issued server command: /tpaccept
+[02:41:31] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[02:42:25] [Server thread/INFO]: achillguy2012 issued server command: /tpa BenRui
+[02:42:30] [Server thread/INFO]: BenRui issued server command: /tpaccept
+[02:42:39] [Server thread/INFO]: dream769 issued server command: /home home
+[02:42:56] [Server thread/INFO]: BenRui fell from a high place
+[02:43:05] [Server thread/INFO]: BenRui issued server command: /back
+[02:43:11] [Server thread/INFO]: dream769 issued server command: /back
+[02:45:15] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[02:47:16] [Async Chat Thread - #13/INFO]: <dream769> 991 1178[m
+
+[02:48:57] [Server thread/INFO]: achillguy2012 issued server command: /tpa dream769
+[02:48:58] [Thread-93/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[02:48:58] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:49850] logged in with entity id 43208 at ([world]573.1383727390966, 12.0, 192.30570454030394)
+[02:49:04] [Async Chat Thread - #14/INFO]: <Ezzprogamer769> hi[m
+
+[02:49:11] [Thread-94/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:49:11] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:57578] logged in with entity id 43352 at ([world]993.6083583620107, 14.0, 1181.5406316597723)
+[02:49:15] [Server thread/INFO]: achillguy2012 issued server command: /sethome 0
+[02:49:15] [Thread-95/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[02:49:15] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:45950] logged in with entity id 43465 at ([world]170.30357949995502, 88.0, 550.6999999880791)
+[02:49:19] [Thread-96/INFO]: UUID of player 3LYAS_X is 3514b067-f5f6-34c2-9fec-fe3e50e208ee
+[02:49:19] [Server thread/INFO]: 3LYAS_X[/[0:0:0:0:0:0:0:1]:45952] logged in with entity id 43570 at ([world]970.2500925203603, 32.0, 1066.960521945514)
+[02:49:19] [Server thread/INFO]: achillguy2012 issued server command: /sethome home
+[02:49:26] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:49:26] [Server thread/INFO]: Invisibleman left the game.
+[02:49:27] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa Be
+[02:49:29] [Thread-97/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:49:30] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:38826] logged in with entity id 43617 at ([world]992.1473158148623, 15.0625, 1179.0550636385813)
+[02:49:34] [Server thread/INFO]: BenRui issued server command: /tpaccept
+[02:49:51] [Async Chat Thread - #14/INFO]: <Ezzprogamer769> 56[m
+
+[02:49:52] [Server thread/INFO]: Begon_99 issued server command: /home base
+[02:49:57] [Thread-98/INFO]: UUID of player fredbear2022wwww is f12f62f3-2f30-3326-aba4-f1563ad9ae60
+[02:49:57] [Server thread/INFO]: fredbear2022wwww[/[0:0:0:0:0:0:0:1]:56474] logged in with entity id 43841 at ([world]159.5, 73.0, 263.5)
+[02:50:03] [Server thread/INFO]: fredbear2022wwww lost connection: Disconnected
+[02:50:03] [Server thread/INFO]: fredbear2022wwww left the game.
+[02:50:10] [Thread-99/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[02:50:10] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:60648] logged in with entity id 43874 at ([world]264.300000011921, 15.0, 593.6999999880791)
+[02:50:23] [Async Chat Thread - #14/INFO]: <fredbear2022> good booyyy[m
+
+[02:50:27] [Thread-100/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[02:50:27] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:36718] logged in with entity id 43977 at ([world]992.6053741837328, 15.0625, 1178.892089858621)
+[02:50:52] [Server thread/INFO]: Ezzprogamer769 issued server command: /sethome home
+[02:50:59] [Server thread/INFO]: achillguy2012 issued server command: /tpa dream769
+[02:51:03] [Server thread/INFO]: dream769 lost connection: Disconnected
+[02:51:03] [Server thread/INFO]: dream769 left the game.
+[02:51:07] [Server thread/INFO]: Begon_99 issued server command: /home xp
+[02:51:35] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[02:51:35] [Server thread/INFO]: Ezzprogamer769 left the game.
+[02:51:41] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:51:41] [Server thread/INFO]: Invisibleman left the game.
+[02:51:43] [Server thread/INFO]: Begon_99 lost connection: Disconnected
+[02:51:43] [Server thread/INFO]: Begon_99 left the game.
+[02:51:59] [Server thread/INFO]: achillguy2012 issued server command: /tpa dream769
+[02:51:59] [Thread-101/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[02:51:59] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:42778] logged in with entity id 44764 at ([world]272.74691217936635, 66.0, 471.0839014394318)
+[02:52:02] [Thread-102/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:52:02] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:42782] logged in with entity id 44776 at ([world]991.3618476216151, 11.0, 1158.9574968861673)
+[02:52:07] [Async Chat Thread - #15/INFO]: <Ezzprogamer769> hi[m
+
+[02:52:11] [Async Chat Thread - #15/INFO]: <Ezzprogamer769> im Ezzprogamer769[m
+
+[02:52:23] [Server thread/INFO]: BenRui issued server command: /tpa Ezzprogamer769
+[02:53:03] [Async Chat Thread - #15/INFO]: <Mapicc444> hi[m
+
+[02:53:14] [Async Chat Thread - #15/INFO]: <fredbear2022> bye[m
+
+[02:53:15] [Async Chat Thread - #15/INFO]: <Mapicc444> asem lets get dimonds[m
+
+[02:53:17] [Async Chat Thread - #15/INFO]: <Invisibleman> hi[m
+
+[02:53:21] [Async Chat Thread - #15/INFO]: <Invisibleman> not now[m
+
+[02:53:26] [Server thread/INFO]: Invisibleman issued server command: /home base
+[02:53:33] [Async Chat Thread - #15/INFO]: <Mapicc444> shakir alikh say can he join[m
+
+[02:53:38] [Async Chat Thread - #15/INFO]: <fredbear2022> no[m
+
+[02:53:40] [Async Chat Thread - #15/INFO]: <Ezzprogamer769> Mapicc444[m
+
+[02:53:43] [Async Chat Thread - #15/INFO]: <Mapicc444> ok[m
+
+[02:53:47] [Async Chat Thread - #15/INFO]: <Mapicc444> what[m
+
+[02:53:50] [Async Chat Thread - #15/INFO]: <Ezzprogamer769> tpa[m
+
+[02:53:54] [Async Chat Thread - #15/INFO]: <achillguy2012> BEYOND REALITY[m
+
+[02:54:07] [Server thread/INFO]: fredbear2022 issued server command: /tpa Ezzprogamer769
+[02:54:11] [Thread-103/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[02:54:11] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:44166] logged in with entity id 46219 at ([world]194.91000782941248, 5.0, 615.0598803772923)
+[02:54:19] [Server thread/INFO]: fredbear2022 issued server command: /home base
+[02:54:24] [Server thread/INFO]: Ezzprogamer769 issued server command: /home home
+[02:54:29] [Server thread/INFO]: Mapicc444 issued server command: /tpahere Ezzprogamer769
+[02:54:33] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpdeny
+[02:54:37] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[02:54:41] [Server thread/INFO]: Begon_99 issued server command: /home 1
+[02:54:48] [Async Chat Thread - #15/INFO]: <Mapicc444> tp acc[m
+
+[02:54:54] [Server thread/INFO]: Begon_99 suffocated in a wall
+[02:55:01] [Server thread/INFO]: Begon_99 issued server command: /back
+[02:55:02] [Server thread/INFO]: Mapicc444 issued server command: /tpahere Ezzprogamer769
+[02:55:16] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[02:55:16] [Server thread/INFO]: Invisibleman issued server command: /home base
+[02:55:17] [Server thread/INFO]: Begon_99 suffocated in a wall
+[02:55:18] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[02:55:20] [Server thread/INFO]: fredbear2022 issued server command: /tpa Ezzprogamer769
+[02:55:24] [Server thread/INFO]: Begon_99 issued server command: /home chest
+[02:55:27] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa fredbear2022
+[02:55:37] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa fredbear2022
+[02:55:39] [Server thread/INFO]: fredbear2022 issued server command: /home cave
+[02:55:50] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:55:50] [Server thread/INFO]: Invisibleman left the game.
+[02:55:51] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[02:55:51] [Server thread/INFO]: Mapicc444 left the game.
+[02:56:00] [Thread-104/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:56:00] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:46924] logged in with entity id 47955 at ([world]988.6999999880791, 15.0625, 1165.1322619020336)
+[02:56:01] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa fredbear2022
+[02:56:04] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Ezzprogamer769
+[02:56:11] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpaccept
+[02:56:14] [Server thread/INFO]: Invisibleman was slain by 3LYAS_X
+[02:56:19] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Ezzprogamer769
+[02:56:24] [Server thread/INFO]: Begon_99 issued server command: /delhome 1
+[02:56:27] [Server thread/INFO]: fredbear2022 issued server command: /tpa Ezzprogamer769
+[02:56:27] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa fredbear2022
+[02:56:31] [Server thread/WARN]: Invisibleman moved too quickly! 7.439720873133297,1.0,14.036501255838857 (7.439720873133297, 1.0, 14.036501255838857)
+[02:56:36] [Server thread/INFO]: Begon_99 issued server command: /sethome 1
+[02:56:36] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Ezzprogamer769
+[02:56:40] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa fredbear2022
+[02:56:49] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpcancel fredbear2022
+[02:56:52] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa fredbear2022
+[02:56:58] [Server thread/INFO]: fredbear2022 issued server command: /tpa Ezzprogamer769
+[02:56:58] [Server thread/INFO]: Ezzprogamer769 issued server command: /home shakir
+[02:57:01] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Ezzprogamer769
+[02:57:02] [Server thread/INFO]: Ezzprogamer769 issued server command: /home Shakir
+[02:57:03] [Server thread/INFO]: Begon_99 issued server command: /home base
+[02:57:05] [Server thread/INFO]: fredbear2022 issued server command: /tpcancel Ezzprogamer769
+[02:57:05] [Server thread/INFO]: BenRui issued server command: /tpa Begon_99
+[02:57:07] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Ezzprogamer769
+[02:57:10] [Server thread/INFO]: fredbear2022 issued server command: /tpa Ezzprogamer769
+[02:57:11] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpaccept
+[02:57:12] [Server thread/INFO]: Begon_99 issued server command: /tpdeny
+[02:57:12] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:57:12] [Server thread/INFO]: Invisibleman left the game.
+[02:57:13] [Server thread/INFO]: Ezzprogamer769 issued server command: /
+[02:57:24] [Thread-105/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:57:24] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:45402] logged in with entity id 48775 at ([world]990.3000000119209, 15.0625, 1175.435627143518)
+[02:57:32] [Server thread/INFO]: BenRui issued server command: /tpa Begon_99
+[02:57:35] [Server thread/INFO]: Ezzprogamer769 has just earned the achievement [Diamonds to you!]
+[02:57:38] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:57:39] [Server thread/INFO]: Invisibleman left the game.
+[02:57:44] [Thread-106/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:57:44] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:57230] logged in with entity id 48909 at ([world]990.3000000119209, 15.0625, 1175.435627143518)
+[02:57:58] [Server thread/INFO]: Ezzprogamer769 issued server command: /home home
+[02:57:58] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:57:58] [Server thread/INFO]: Invisibleman left the game.
+[02:58:04] [Thread-107/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[02:58:04] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:57982] logged in with entity id 49044 at ([world]990.3000000119209, 15.0625, 1175.435627143518)
+[02:58:05] [Server thread/INFO]: fredbear2022 issued server command: /home base
+[02:58:11] [Server thread/INFO]: fredbear2022 issued server command: /home base
+[02:58:14] [Server thread/INFO]: 3LYAS_X issued server command: /base
+[02:58:22] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[02:58:22] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[02:58:23] [Server thread/INFO]: fredbear2022 left the game.
+[02:58:23] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[02:58:24] [Server thread/INFO]: Invisibleman left the game.
+[02:58:43] [Server thread/INFO]: 3LYAS_X lost connection: Disconnected
+[02:58:43] [Server thread/INFO]: 3LYAS_X left the game.
+[02:58:45] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[02:58:45] [Server thread/INFO]: Ezzprogamer769 left the game.
+[02:58:48] [Server thread/INFO]: BenRui lost connection: Disconnected
+[02:58:48] [Server thread/INFO]: BenRui left the game.
+[02:58:50] [Server thread/INFO]: Begon_99 lost connection: Disconnected
+[02:58:50] [Server thread/INFO]: Begon_99 left the game.
+[02:58:51] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[02:58:51] [Server thread/INFO]: achillguy2012 left the game.
+[03:00:04] [Thread-109/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[03:00:04] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:46984] logged in with entity id 49510 at ([world]273.85860241515246, 66.0, 466.7236003077819)
+[03:00:20] [Async Chat Thread - #16/INFO]: <Ezzprogamer769> hi[m
+
+[03:01:45] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[03:01:45] [Server thread/INFO]: Ezzprogamer769 left the game.
+[03:18:40] [Thread-110/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[03:18:40] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:37834] logged in with entity id 49618 at ([world]273.7463469524784, 66.0, 467.50120363711585)
+[03:18:49] [Async Chat Thread - #17/INFO]: <Ezzprogamer769> hi[m
+
+[03:18:52] [Async Chat Thread - #17/INFO]: <Ezzprogamer769> im Ezzprogamer769[m
+
+[03:19:35] [Thread-111/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[03:19:35] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:45322] logged in with entity id 49752 at ([world]274.2240383101971, 66.0, 476.1653015220981)
+[03:19:38] [Server thread/INFO]: Ezzprogamer769 issued server command: /home Shakir
+[03:20:20] [Server thread/INFO]: Ezzprogamer769 issued server command: /home home
+[03:20:38] [Thread-112/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:20:38] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:35862] logged in with entity id 50297 at ([world]807.5612912800191, 64.0, 1004.1423272128004)
+[03:21:29] [Server thread/INFO]: BenRui fell from a high place
+[03:21:37] [Server thread/INFO]: BenRui issued server command: /back
+[03:22:02] [Thread-113/INFO]: UUID of player 3LYAS_X is 3514b067-f5f6-34c2-9fec-fe3e50e208ee
+[03:22:03] [Server thread/INFO]: 3LYAS_X[/[0:0:0:0:0:0:0:1]:38418] logged in with entity id 50612 at ([world]196.48807123844762, 5.0, 615.8032949228599)
+[03:22:12] [Server thread/INFO]: 3LYAS_X issued server command: /home chickens
+[03:22:18] [Async Chat Thread - #18/INFO]: <3LYAS_X> who ever wanna pvp go to spawn >:D[m
+
+[03:22:24] [Async Chat Thread - #18/INFO]: <Ezzprogamer769> ok[m
+
+[03:22:24] [Server thread/INFO]: 3LYAS_X issued server command: /home chickens
+[03:22:27] [Server thread/INFO]: 3LYAS_X issued server command: /homs
+[03:22:27] [Async Chat Thread - #18/INFO]: <Ezzprogamer769> im diamond[m
+
+[03:22:29] [Server thread/INFO]: 3LYAS_X issued server command: /homes
+[03:22:32] [Async Chat Thread - #18/INFO]: <Ezzprogamer769> send coords[m
+
+[03:22:33] [Async Chat Thread - #18/INFO]: <3LYAS_X> im full prot[m
+
+[03:22:37] [Async Chat Thread - #18/INFO]: <Ezzprogamer769> CAP[m
+
+[03:22:38] [Server thread/INFO]: 3LYAS_X issued server command: /home chicken
+[03:22:39] [Async Chat Thread - #18/INFO]: <Ezzprogamer769> ik\[m
+
+[03:22:40] [Async Chat Thread - #18/INFO]: <3LYAS_X> wallah[m
+
+[03:22:53] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[03:22:57] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[03:23:01] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa achillguy2012
+[03:23:07] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[03:23:10] [Server thread/INFO]: 3LYAS_X issued server command: /
+[03:23:13] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[03:23:30] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[03:23:40] [Thread-114/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[03:23:40] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:39948] logged in with entity id 51757 at ([world]993.2255846358167, 15.0625, 1176.679132742283)
+[03:23:43] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa achillguy2012
+[03:23:44] [Server thread/INFO]: achillguy2012 issued server command: /tpaccept
+[03:23:53] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[03:23:54] [Server thread/INFO]: BenRui issued server command: /tpa achillguy2012
+[03:23:56] [Async Chat Thread - #19/INFO]: <3LYAS_X> sigma sigma boy[m
+
+[03:23:59] [Server thread/INFO]: Begon_99 was slain by achillguy2012
+[03:24:09] [Server thread/INFO]: 3LYAS_X was slain by Ezzprogamer769
+[03:24:12] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:24:15] [Server thread/INFO]: 3LYAS_X issued server command: /back
+[03:24:20] [Server thread/INFO]: 3LYAS_X issued server command: /
+[03:24:21] [Server thread/INFO]: achillguy2012 issued server command: /sethome 99
+[03:24:23] [Thread-115/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:24:23] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:34006] logged in with entity id 52005 at ([world]991.509801429234, 15.0625, 1176.1039689262705)
+[03:24:24] [Server thread/INFO]: achillguy2012 issued server command: /home home
+[03:24:25] [Server thread/INFO]: Ezzprogamer769 issued server command: /home home
+[03:24:27] [Server thread/INFO]: achillguy2012 was slain by 3LYAS_X
+[03:24:30] [Server thread/INFO]: achillguy2012 issued server command: /back
+[03:24:36] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[03:24:37] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:24:37] [Server thread/INFO]: Invisibleman left the game.
+[03:24:40] [Thread-116/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:24:40] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:57484] logged in with entity id 52140 at ([world]991.509801429234, 15.0625, 1176.1039689262705)
+[03:24:41] [Server thread/INFO]: 3LYAS_X issued server command: /home base
+[03:24:55] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:24:55] [Server thread/INFO]: Invisibleman left the game.
+[03:25:01] [Thread-117/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:25:01] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:53162] logged in with entity id 52336 at ([world]991.509801429234, 15.0625, 1176.1039689262705)
+[03:25:07] [Server thread/INFO]: BenRui issued server command: /tpa achillguy2012
+[03:25:11] [Server thread/INFO]: achillguy2012 issued server command: /tpaccept
+[03:25:14] [Server thread/INFO]: Begon_99 lost connection: Disconnected
+[03:25:14] [Server thread/INFO]: Begon_99 left the game.
+[03:26:04] [Server thread/INFO]: Invisibleman was slain by achillguy2012
+[03:26:04] [Thread-118/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[03:26:04] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:54834] logged in with entity id 52549 at ([world]919.6845906837383, 63.0, 1182.1486729903193)
+[03:26:07] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:26:07] [Server thread/INFO]: Invisibleman left the game.
+[03:26:09] [Server thread/INFO]: achillguy2012 issued server command: /hoome
+[03:26:11] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:26:13] [Server thread/INFO]: achillguy2012 issued server command: /home home
+[03:26:20] [Thread-119/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:26:20] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:44454] logged in with entity id 52632 at ([world]980.6192529786528, 12.0, 1173.1796185008088)
+[03:26:27] [Server thread/INFO]: dream769 issued server command: /home home
+[03:26:43] [Server thread/INFO]: dream769 was slain by Ezzprogamer769
+[03:26:50] [Server thread/INFO]: Invisibleman lost connection: Login timed out!
+[03:26:50] [Server thread/INFO]: Invisibleman left the game.
+[03:26:50] [Server thread/WARN]: handleDisconnection() called twice
+[03:26:55] [Server thread/INFO]: dream769 issued server command: /home home
+[03:26:56] [Server thread/INFO]: 3LYAS_X issued server command: /home chicken
+[03:26:58] [Thread-120/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:26:58] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:36014] logged in with entity id 52920 at ([world]995.0633341291227, 15.0625, 1177.195884929129)
+[03:27:04] [Thread-121/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[03:27:04] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:36026] logged in with entity id 53127 at ([world]993.123632330185, 15.0625, 1178.4141982029028)
+[03:27:05] [Server thread/INFO]: dream769 was slain by Ezzprogamer769
+[03:27:07] [Async Chat Thread - #20/INFO]: <achillguy2012> lol[m
+
+[03:27:12] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:27:12] [Server thread/INFO]: Invisibleman left the game.
+[03:27:12] [Server thread/INFO]: dream769 issued server command: /home
+[03:27:17] [Server thread/INFO]: dream769 issued server command: /home home
+[03:27:43] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[03:27:46] [Server thread/INFO]: 3LYAS_X issued server command: /home q
+[03:28:20] [Thread-122/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:28:20] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:38666] logged in with entity id 53568 at ([world]990.592305205249, 15.0625, 1178.7736238153914)
+[03:28:35] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:28:35] [Server thread/INFO]: Invisibleman left the game.
+[03:28:40] [Thread-123/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:28:40] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:33086] logged in with entity id 53625 at ([world]990.592305205249, 15.0625, 1178.7736238153914)
+[03:28:48] [Server thread/INFO]: Ezzprogamer769 fell from a high place
+[03:28:52] [Server thread/INFO]: Ezzprogamer769 issued server command: /back
+[03:28:55] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:28:55] [Server thread/INFO]: Invisibleman left the game.
+[03:28:58] [Thread-124/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:28:58] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:42210] logged in with entity id 53758 at ([world]990.592305205249, 15.0625, 1178.7736238153914)
+[03:29:13] [Thread-125/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[03:29:13] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:32930] logged in with entity id 53795 at ([world]984.6916551448729, 11.535840625044555, 1153.300000011921)
+[03:29:20] [Server thread/INFO]: fredbear2022 issued server command: /home base
+[03:29:23] [Server thread/INFO]: Begon_99 lost connection: Disconnected
+[03:29:23] [Server thread/INFO]: Begon_99 left the game.
+[03:29:25] [Server thread/INFO]: achillguy2012 issued server command: /home 99
+[03:29:43] [Thread-126/INFO]: UUID of player beastkiller is 0a786d5d-0306-3132-8792-6699daf2a58a
+[03:29:43] [Server thread/INFO]: beastkiller[/[0:0:0:0:0:0:0:1]:36078] logged in with entity id 53931 at ([world]990.3000000119209, 15.0625, 1180.928996486851)
+[03:29:55] [Async Chat Thread - #21/INFO]: <fredbear2022> muhammmed[m
+
+[03:29:57] [Async Chat Thread - #21/INFO]: <fredbear2022> they found our base[m
+
+[03:30:00] [Async Chat Thread - #21/INFO]: <achillguy2012> lol[m
+
+[03:30:02] [Async Chat Thread - #21/INFO]: <achillguy2012> l bozo[m
+
+[03:30:13] [Async Chat Thread - #21/INFO]: <fredbear2022> and killed asem and abdulrahman[m
+
+[03:30:15] [Async Chat Thread - #21/INFO]: <beastkiller> no[m
+
+[03:30:18] [Thread-128/INFO]: UUID of player Begon_99 is 7e929316-f391-3b4c-b416-088bffd7d5a3
+[03:30:19] [Server thread/INFO]: Begon_99[/[0:0:0:0:0:0:0:1]:39062] logged in with entity id 54205 at ([world]984.6916551448729, 11.535840625044555, 1153.300000011921)
+[03:30:22] [Async Chat Thread - #21/INFO]: <fredbear2022> yes[m
+
+[03:30:25] [Async Chat Thread - #21/INFO]: <Ezzprogamer769> lol[m
+
+[03:30:28] [Server thread/INFO]: achillguy2012 issued server command: /home 99
+[03:30:30] [Async Chat Thread - #21/INFO]: <Ezzprogamer769> i did[m
+
+[03:30:40] [Server thread/INFO]: beastkiller was slain by achillguy2012
+[03:30:44] [Server thread/INFO]: Begon_99 was slain by achillguy2012
+[03:30:45] [Server thread/INFO]: fredbear2022 issued server command: /home base
+[03:30:47] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:30:47] [Server thread/INFO]: Invisibleman left the game.
+[03:30:48] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:30:53] [Server thread/INFO]: beastkiller was slain by achillguy2012
+[03:30:58] [Server thread/INFO]: beastkiller was slain by achillguy2012
+[03:30:59] [Server thread/INFO]: achillguy2012 was slain by fredbear2022
+[03:31:05] [Thread-129/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:31:05] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:54230] logged in with entity id 54706 at ([world]984.3159173426984, 15.0, 1180.699999988079)
+[03:31:10] [Server thread/INFO]: achillguy2012 issued server command: /home 99
+[03:31:10] [Thread-130/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[03:31:10] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:54234] logged in with entity id 54718 at ([world]1026.300000011921, 15.0, 1075.5322243005858)
+[03:31:20] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:31:20] [Server thread/INFO]: Invisibleman left the game.
+[03:31:21] [Async Chat Thread - #21/INFO]: <beastkiller> who is achillguy[m
+
+[03:31:24] [Thread-131/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:31:24] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:55662] logged in with entity id 54797 at ([world]988.6999999880791, 15.0625, 1179.7158324291465)
+[03:31:28] [Async Chat Thread - #21/INFO]: <fredbear2022> ammar yasser[m
+
+[03:31:29] [Server thread/INFO]: Mapicc444 issued server command: /home home
+[03:31:33] [Async Chat Thread - #21/INFO]: <fredbear2022> he found our base[m
+
+[03:31:38] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:31:38] [Server thread/INFO]: Invisibleman left the game.
+[03:31:41] [Async Chat Thread - #21/INFO]: <beastkiller> how[m
+
+[03:31:41] [Thread-132/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:31:41] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:43102] logged in with entity id 54840 at ([world]992.7826458395538, 15.0625, 1178.6342422043874)
+[03:31:49] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:31:49] [Server thread/INFO]: Invisibleman left the game.
+[03:31:52] [Thread-133/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:31:52] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:49222] logged in with entity id 54934 at ([world]992.7826458395538, 15.0625, 1178.6342422043874)
+[03:32:00] [Server thread/INFO]: beastkiller lost connection: Disconnected
+[03:32:00] [Server thread/INFO]: beastkiller left the game.
+[03:32:01] [Server thread/INFO]: achillguy2012 issued server command: /home 99
+[03:32:03] [Async Chat Thread - #21/INFO]: <Mapicc444> bro who tp him[m
+
+[03:32:05] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:32:05] [Server thread/INFO]: Invisibleman left the game.
+[03:32:08] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[03:32:08] [Server thread/INFO]: Mapicc444 left the game.
+[03:32:08] [Async Chat Thread - #21/INFO]: <fredbear2022> they found the base[m
+
+[03:32:09] [Thread-134/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:32:09] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:54408] logged in with entity id 55014 at ([world]992.7826458395538, 15.0625, 1178.6342422043874)
+[03:32:16] [Server thread/INFO]: Ezzprogamer769 issued server command: /home home
+[03:32:16] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:32:17] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:32:17] [Server thread/INFO]: Invisibleman left the game.
+[03:32:18] [Server thread/INFO]: dream769 issued server command: /home home
+[03:32:19] [Thread-135/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:32:19] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:36422] logged in with entity id 55109 at ([world]992.7826458395538, 15.0625, 1178.6342422043874)
+[03:32:20] [Server thread/INFO]: achillguy2012 was slain by fredbear2022
+[03:32:20] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:32:23] [Server thread/INFO]: achillguy2012 issued server command: /back
+[03:32:33] [Server thread/INFO]: achillguy2012 was slain by fredbear2022
+[03:32:34] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:32:34] [Server thread/INFO]: Invisibleman left the game.
+[03:32:37] [Server thread/INFO]: achillguy2012 issued server command: /back
+[03:32:38] [Server thread/INFO]: dream769 was slain by Ezzprogamer769
+[03:32:40] [Thread-136/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:32:40] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:53512] logged in with entity id 55220 at ([world]992.7826458395538, 15.0625, 1178.6342422043874)
+[03:32:44] [Server thread/INFO]: achillguy2012 was slain by fredbear2022
+[03:32:47] [Server thread/INFO]: dream769 issued server command: /home home
+[03:32:54] [Server thread/INFO]: dream769 was slain by Ezzprogamer769
+[03:32:55] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:32:55] [Server thread/INFO]: Invisibleman left the game.
+[03:33:00] [Server thread/INFO]: dream769 issued server command: /home home
+[03:33:04] [Thread-137/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:33:04] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:57902] logged in with entity id 55445 at ([world]992.7826458395538, 15.0625, 1178.6342422043874)
+[03:33:18] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:33:18] [Server thread/INFO]: Invisibleman left the game.
+[03:33:26] [Server thread/INFO]: 3LYAS_X issued server command: /home trees
+[03:33:38] [Server thread/INFO]: achillguy2012 issued server command: /home 99
+[03:34:00] [Server thread/INFO]: achillguy2012 issued server command: /home 99
+[03:34:17] [Server thread/INFO]: achillguy2012 was slain by fredbear2022
+[03:34:18] [Async Chat Thread - #22/INFO]: <3LYAS_X> come to x 0 y 64 z148[m
+
+[03:34:20] [Async Chat Thread - #22/INFO]: <3LYAS_X> ezz[m
+
+[03:34:21] [Server thread/INFO]: achillguy2012 issued server command: /back
+[03:34:22] [Server thread/INFO]: Begon_99 issued server command: /home 1
+[03:34:23] [Thread-138/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:34:23] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:58482] logged in with entity id 55882 at ([world]992.7826458395538, 15.0625, 1178.6342422043874)
+[03:34:28] [Server thread/INFO]: achillguy2012 was slain by fredbear2022
+[03:34:31] [Server thread/INFO]: achillguy2012 issued server command: /back
+[03:34:32] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpa achillguy2012
+[03:34:35] [Server thread/INFO]: achillguy2012 issued server command: /tpaccept
+[03:34:42] [Server thread/INFO]: BenRui issued server command: /home
+[03:34:46] [Server thread/INFO]: BenRui issued server command: /home BenRUi
+[03:34:51] [Server thread/INFO]: achillguy2012 issued server command: /home home
+[03:34:52] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:34:54] [Async Chat Thread - #22/INFO]: <3LYAS_X> come to x 0 y 64 z148[m
+
+[03:34:56] [Async Chat Thread - #22/INFO]: <3LYAS_X> come to x 0 y 64 z148[m
+
+[03:34:57] [Server thread/INFO]: Ezzprogamer769 was slain by fredbear2022
+[03:34:57] [Async Chat Thread - #22/INFO]: <3LYAS_X> come to x 0 y 64 z148[m
+
+[03:35:20] [Server thread/INFO]: fredbear2022 issued server command: /minecraft:tell Begon_99 go to thier base
+[03:35:36] [Server thread/INFO]: achillguy2012 was slain by Ezzprogamer769
+[03:35:57] [Server thread/INFO]: fredbear2022 issued server command: /tpa Begon_99
+[03:36:00] [Server thread/INFO]: 3LYAS_X issued server command: /tpa begon_99
+[03:36:01] [Server thread/INFO]: Begon_99 issued server command: /tpaccept
+[03:36:19] [Server thread/INFO]: dream769 was slain by achillguy2012
+[03:36:23] [Server thread/INFO]: Ezzprogamer769 issued server command: /home Shakir
+[03:36:25] [Server thread/INFO]: dream769 issued server command: /home home
+[03:36:30] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[03:36:30] [Server thread/INFO]: achillguy2012 left the game.
+[03:36:32] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Invisibleman
+[03:36:40] [Server thread/INFO]: 3LYAS_X issued server command: /tpa Begon_99
+[03:36:42] [Server thread/INFO]: dream769 lost connection: Disconnected
+[03:36:42] [Server thread/INFO]: dream769 left the game.
+[03:36:42] [Server thread/INFO]: Ezzprogamer769 issued server command: /back
+[03:36:45] [Server thread/INFO]: Begon_99 issued server command: /tpaccept
+[03:36:45] [Server thread/INFO]: Invisibleman issued server command: /tpaccept
+[03:36:48] [Thread-139/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:36:48] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:46050] logged in with entity id 57614 at ([world]269.69999998807907, 69.0, 470.69999998807907)
+[03:36:51] [Server thread/INFO]: fredbear2022 issued server command: /tpahere 3LYAS_X
+[03:36:56] [Server thread/INFO]: 3LYAS_X issued server command: /tpaccepr
+[03:36:58] [Server thread/INFO]: BenRui fell from a high place
+[03:37:00] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[03:37:00] [Server thread/INFO]: achillguy2012 left the game.
+[03:37:10] [Server thread/WARN]: BenRui moved too quickly! 6.540437359509781,-0.8548932993483618,12.998041673588602 (6.540437359509781, -0.8548932993483618, 12.998041673588602)
+[03:37:13] [Thread-140/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:37:13] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:44254] logged in with entity id 57742 at ([world]269.69999998807907, 69.0, 470.66051111040804)
+[03:37:13] [Thread-141/INFO]: UUID of player beastkiller is 0a786d5d-0306-3132-8792-6699daf2a58a
+[03:37:13] [Server thread/INFO]: beastkiller[/[0:0:0:0:0:0:0:1]:44262] logged in with entity id 57743 at ([world]994.5996371067768, 15.0625, 1176.223589729546)
+[03:37:15] [Server thread/INFO]: Ezzprogamer769 issued server command: /home Shakir
+[03:37:15] [Server thread/INFO]: BenRui hit the ground too hard
+[03:37:17] [Async Chat Thread - #23/INFO]: <fredbear2022> hahahaha[m
+
+[03:37:18] [Async Chat Thread - #23/INFO]: <fredbear2022> muhammed[m
+
+[03:37:22] [Async Chat Thread - #23/INFO]: <fredbear2022> we find thier base[m
+
+[03:37:24] [Async Chat Thread - #23/INFO]: <fredbear2022> and kill them[m
+
+[03:37:25] [Async Chat Thread - #23/INFO]: <3LYAS_X> e[m
+
+[03:37:29] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:37:29] [Server thread/INFO]: Invisibleman left the game.
+[03:37:30] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[03:37:30] [Server thread/INFO]: achillguy2012 left the game.
+[03:37:40] [Server thread/INFO]: BenRui was slain by Begon_99
+[03:37:51] [Thread-142/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:37:51] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:44304] logged in with entity id 57931 at ([world]269.69999998807907, 69.0, 470.66051111040804)
+[03:37:54] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[03:37:54] [Server thread/INFO]: fredbear2022 left the game.
+[03:37:54] [Server thread/INFO]: BenRui lost connection: Disconnected
+[03:37:54] [Server thread/INFO]: BenRui left the game.
+[03:37:57] [Thread-143/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[03:37:57] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:44232] logged in with entity id 57976 at ([world]272.0139518251043, 66.0, 474.8667050687139)
+[03:38:00] [Server thread/INFO]: Ezzprogamer769 issued server command: /home home
+[03:38:21] [Server thread/INFO]: achillguy2012 lost connection: Login timed out!
+[03:38:21] [Server thread/INFO]: achillguy2012 left the game.
+[03:38:21] [Server thread/WARN]: handleDisconnection() called twice
+[03:38:23] [Server thread/INFO]: 3LYAS_X was slain by Ezzprogamer769
+[03:38:24] [Thread-144/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:38:24] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:46258] logged in with entity id 58145 at ([world]269.6251322630082, 69.0, 470.02461624306034)
+[03:38:27] [Server thread/INFO]: 3LYAS_X issued server command: /back
+[03:38:28] [Server thread/INFO]: Begon_99 was slain by achillguy2012
+[03:38:32] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:38:36] [Server thread/INFO]: Ezzprogamer769 issued server command: /home Shakir
+[03:38:37] [Thread-145/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[03:38:37] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:48890] logged in with entity id 58302 at ([world]268.30000001192093, 67.0, 470.30000001192093)
+[03:38:38] [Server thread/INFO]: 3LYAS_X was slain by Ezzprogamer769
+[03:38:39] [Server thread/INFO]: Begon_99 was slain by achillguy2012
+[03:38:40] [Server thread/INFO]: Ezzprogamer769 issued server command: /home Shakir
+[03:38:40] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[03:38:40] [Server thread/INFO]: achillguy2012 left the game.
+[03:38:41] [Server thread/INFO]: 3LYAS_X issued server command: /back
+[03:38:47] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:38:48] [Async Chat Thread - #24/INFO]: <beastkiller> shakir[m
+
+[03:38:49] [Thread-146/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:38:49] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:40138] logged in with entity id 58428 at ([world]265.3239514235399, 63.863990943248744, 464.65443289720224)
+[03:38:49] [Server thread/INFO]: 3LYAS_X was slain by BenRui
+[03:38:53] [Server thread/INFO]: 3LYAS_X issued server command: /back
+[03:38:56] [Async Chat Thread - #24/INFO]: <beastkiller> where is the iron[m
+
+[03:38:58] [Server thread/INFO]: BenRui was slain by fredbear2022
+[03:39:01] [Server thread/WARN]: 3LYAS_X moved wrongly!
+[03:39:02] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[03:39:02] [Server thread/INFO]: achillguy2012 left the game.
+[03:39:06] [Server thread/INFO]: BenRui was slain by fredbear2022
+[03:39:16] [Thread-147/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:39:16] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:33438] logged in with entity id 58624 at ([world]274.69999998807907, 66.0, 468.6160691812147)
+[03:39:21] [Server thread/WARN]: BenRui moved wrongly!
+[03:39:22] [Server thread/INFO]: BenRui was slain by Begon_99
+[03:39:23] [Server thread/INFO]: fredbear2022 issued server command: /tpahere begon99
+[03:39:23] [Thread-148/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:39:23] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:33452] logged in with entity id 58640 at ([world]258.37039793173363, 62.080187884833066, 452.30000001192093)
+[03:39:24] [Async Chat Thread - #24/INFO]: <beastkiller> shakir[m
+
+[03:39:25] [Server thread/INFO]: fredbear2022 issued server command: /tpahere begon
+[03:39:29] [Server thread/INFO]: Begon_99 issued server command: /tpaccept
+[03:39:30] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:39:30] [Server thread/INFO]: Invisibleman left the game.
+[03:39:32] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:39:32] [Async Chat Thread - #24/INFO]: <beastkiller> where is the iron[m
+
+[03:39:37] [Thread-149/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:39:37] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:46680] logged in with entity id 58705 at ([world]274.69999998807907, 66.0, 468.6160691812147)
+[03:39:40] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:39:40] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[03:39:40] [Server thread/INFO]: fredbear2022 left the game.
+[03:39:49] [Thread-150/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[03:39:49] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:51856] logged in with entity id 58707 at ([world]270.31155556775104, 66.0, 471.84197168212745)
+[03:39:49] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:40:01] [Server thread/INFO]: BenRui lost connection: Disconnected
+[03:40:01] [Server thread/INFO]: BenRui left the game.
+[03:40:03] [Thread-151/INFO]: UUID of player Mapicc444 is 3eedff82-d006-3c39-92c1-447085ada114
+[03:40:03] [Server thread/INFO]: Mapicc444[/[0:0:0:0:0:0:0:1]:46256] logged in with entity id 58766 at ([world]996.2843831058685, 15.5625, 1176.3814956945214)
+[03:40:04] [Thread-152/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[03:40:04] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:46264] logged in with entity id 58781 at ([world]272.96562641273385, 66.0, 476.30000001192093)
+[03:40:06] [Server thread/INFO]: Begon_99 was slain by achillguy2012
+[03:40:11] [Server thread/INFO]: achillguy2012 was slain by fredbear2022
+[03:40:15] [Server thread/INFO]: beastkiller lost connection: Disconnected
+[03:40:15] [Server thread/INFO]: beastkiller left the game.
+[03:40:17] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Begon_99
+[03:40:18] [Server thread/WARN]: BenRui moved wrongly!
+[03:40:22] [Server thread/INFO]: Begon_99 issued server command: /tpaccept
+[03:40:23] [Server thread/INFO]: BenRui was slain by fredbear2022
+[03:40:26] [Server thread/INFO]: achillguy2012 was slain by Invisibleman
+[03:40:29] [Server thread/INFO]: achillguy2012 was slain by Invisibleman
+[03:40:32] [Server thread/INFO]: fredbear2022 issued server command: /tpahere Begon_99
+[03:40:32] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[03:40:32] [Server thread/INFO]: achillguy2012 left the game.
+[03:40:35] [Server thread/INFO]: Begon_99 issued server command: /tpaccept
+[03:40:38] [Server thread/WARN]: BenRui moved wrongly!
+[03:40:38] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:40:38] [Server thread/INFO]: Invisibleman left the game.
+[03:40:44] [Async Chat Thread - #25/INFO]: <3LYAS_X> LOL[m
+
+[03:40:50] [Async Chat Thread - #25/INFO]: <fredbear2022> hahahahah[m
+
+[03:41:01] [Server thread/INFO]: Mapicc444 issued server command: /tpa fredbear2022
+[03:41:02] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:41:05] [Server thread/INFO]: fredbear2022 issued server command: /tpaccept
+[03:41:09] [Async Chat Thread - #25/INFO]: <fredbear2022> we kill all of them[m
+
+[03:41:10] [Server thread/INFO]: Ezzprogamer769 issued server command: /sethome run
+[03:41:12] [Server thread/WARN]: BenRui moved wrongly!
+[03:41:15] [Async Chat Thread - #25/INFO]: <Ezzprogamer769> ggs[m
+
+[03:41:18] [Async Chat Thread - #25/INFO]: <3LYAS_X> ez[m
+
+[03:41:23] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:41:24] [Thread-153/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:41:24] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:50454] logged in with entity id 59631 at ([world]274.69999998807907, 66.0, 472.8825835153805)
+[03:41:29] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:41:30] [Server thread/WARN]: fredbear2022 moved wrongly!
+[03:41:34] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:41:34] [Server thread/INFO]: Invisibleman left the game.
+[03:41:37] [Thread-154/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:41:37] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:58280] logged in with entity id 59695 at ([world]274.69999998807907, 66.0, 472.8825835153805)
+[03:41:43] [Server thread/INFO]: fredbear2022 lost connection: Internal Exception: java.net.SocketException: Connection reset
+[03:41:43] [Server thread/INFO]: fredbear2022 left the game.
+[03:41:52] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:41:52] [Server thread/INFO]: Invisibleman left the game.
+[03:41:54] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:41:56] [Thread-155/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:41:56] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:35796] logged in with entity id 59843 at ([world]274.69999998807907, 66.0, 472.8825835153805)
+[03:41:57] [Server thread/INFO]: BenRui lost connection: Disconnected
+[03:41:57] [Server thread/INFO]: BenRui left the game.
+[03:42:10] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:42:10] [Server thread/INFO]: Invisibleman left the game.
+[03:42:13] [Thread-156/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[03:42:13] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:50998] logged in with entity id 59981 at ([world]271.75866008735306, 66.0, 474.8622996622962)
+[03:42:14] [Thread-157/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:42:14] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:51010] logged in with entity id 59987 at ([world]270.6768626399913, 66.0, 475.77000388705335)
+[03:42:15] [Server thread/INFO]: Mapicc444 lost connection: Disconnected
+[03:42:15] [Server thread/INFO]: Mapicc444 left the game.
+[03:42:28] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:42:28] [Server thread/INFO]: Invisibleman left the game.
+[03:42:32] [Thread-158/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:42:32] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:53748] logged in with entity id 60036 at ([world]270.6768626399913, 66.0, 475.77000388705335)
+[03:42:46] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:42:46] [Server thread/INFO]: Invisibleman left the game.
+[03:42:53] [Thread-159/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:42:53] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:32916] logged in with entity id 60128 at ([world]273.02056969702346, 66.0, 473.85772344324164)
+[03:43:08] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:43:08] [Server thread/INFO]: Invisibleman left the game.
+[03:43:15] [Async Chat Thread - #26/INFO]: <fredbear2022> W victory[m
+
+[03:43:19] [Async Chat Thread - #26/INFO]: <Ezzprogamer769> W ggs[m
+
+[03:43:21] [Async Chat Thread - #26/INFO]: <fredbear2022> Ammar yasser and benrui cry[m
+
+[03:43:29] [Async Chat Thread - #26/INFO]: <3LYAS_X> correct[m
+
+[03:43:40] [Async Chat Thread - #26/INFO]: <Ezzprogamer769> fr[m
+
+[03:43:41] [Async Chat Thread - #26/INFO]: <3LYAS_X> Ezzprogamer769 team members betray ezz[m
+
+[03:43:42] [Server thread/INFO]: Begon_99 issued server command: /hom e
+[03:43:44] [Async Chat Thread - #26/INFO]: <3LYAS_X> lol[m
+
+[03:43:46] [Server thread/INFO]: Begon_99 issued server command: /home 1
+[03:43:49] [Thread-160/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:43:49] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:49300] logged in with entity id 60441 at ([world]273.02056969702346, 66.0, 473.85772344324164)
+[03:43:52] [Async Chat Thread - #26/INFO]: <fredbear2022> bros teammates rage quit[m
+
+[03:43:57] [Async Chat Thread - #26/INFO]: <3LYAS_X> r[m
+
+[03:43:59] [Async Chat Thread - #26/INFO]: <3LYAS_X> frfr[m
+
+[03:44:03] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:44:03] [Server thread/INFO]: Invisibleman left the game.
+[03:44:16] [Server thread/INFO]: Ezzprogamer769 issued server command: /home run
+[03:44:23] [Thread-161/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:44:23] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:41810] logged in with entity id 60519 at ([world]273.02056969702346, 66.0, 473.85772344324164)
+[03:44:31] [Server thread/INFO]: Ezzprogamer769 was slain by Begon_99
+[03:44:37] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:44:37] [Server thread/INFO]: Invisibleman left the game.
+[03:44:37] [Server thread/INFO]: 3LYAS_X issued server command: /tpa begon_99
+[03:44:39] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:44:44] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:44:45] [Server thread/INFO]: fredbear2022 issued server command: /tpahere 3LYAS_X
+[03:44:51] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:44:51] [Thread-162/INFO]: UUID of player Invisibleman is b2c4c8d0-27e2-364f-bf79-73e679dcd7e8
+[03:44:51] [Server thread/INFO]: Invisibleman[/[0:0:0:0:0:0:0:1]:45780] logged in with entity id 60629 at ([world]273.02056969702346, 66.0, 473.85772344324164)
+[03:45:01] [Server thread/INFO]: 3LYAS_X issued server command: /tpa begon_99
+[03:45:04] [Server thread/INFO]: Ezzprogamer769 issued server command: /back
+[03:45:06] [Server thread/INFO]: Invisibleman lost connection: Disconnected
+[03:45:06] [Server thread/INFO]: Invisibleman left the game.
+[03:45:09] [Server thread/INFO]: 3LYAS_X issued server command: /tpaccept
+[03:45:12] [Server thread/INFO]: Begon_99 fell from a high place
+[03:45:16] [Server thread/INFO]: Begon_99 issued server command: /bacj
+[03:45:18] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:45:22] [Thread-163/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[03:45:22] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:39686] logged in with entity id 60844 at ([world]274.69999998807907, 66.0, 476.69999998807907)
+[03:45:41] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[03:45:41] [Server thread/INFO]: Ezzprogamer769 left the game.
+[03:45:49] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[03:45:49] [Server thread/INFO]: fredbear2022 left the game.
+[03:45:50] [Server thread/INFO]: 3LYAS_X was slain by Begon_99
+[03:45:59] [Thread-164/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[03:45:59] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:37182] logged in with entity id 61157 at ([world]270.69999998807907, 77.0, 473.1872453648532)
+[03:46:03] [Server thread/INFO]: 3LYAS_X issued server command: /back
+[03:46:06] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[03:46:06] [Server thread/INFO]: Ezzprogamer769 left the game.
+[03:46:07] [Thread-165/INFO]: UUID of player achillguy2012 is 2b7d6c69-1af5-3a2a-b9ef-ea420dbfed0f
+[03:46:07] [Server thread/INFO]: achillguy2012[/[0:0:0:0:0:0:0:1]:59472] logged in with entity id 61247 at ([world]274.69999998807907, 66.0, 476.69999998807907)
+[03:46:09] [Server thread/INFO]: BenRui was slain by Enderman
+[03:46:13] [Server thread/INFO]: BenRui lost connection: Disconnected
+[03:46:13] [Server thread/INFO]: BenRui left the game.
+[03:46:19] [Server thread/INFO]: achillguy2012 issued server command: /home home
+[03:46:21] [Thread-166/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[03:46:21] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:44214] logged in with entity id 61348 at ([world]184.98378512710323, 58.0, 523.370736779651)
+[03:46:26] [Thread-167/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[03:46:26] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:43140] logged in with entity id 61411 at ([world]130.51789303173592, 72.41999998688698, 253.04114869406865)
+[03:46:31] [Thread-168/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[03:46:31] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:43154] logged in with entity id 61431 at ([world]270.57886695636887, 76.0, 473.9887593802916)
+[03:46:34] [Server thread/INFO]: Ezzprogamer769 issued server command: /home run
+[03:46:40] [Server thread/INFO]: fredbear2022 fell from a high place
+[03:46:44] [Server thread/INFO]: fredbear2022 issued server command: /back
+[03:46:46] [Server thread/INFO]: achillguy2012 issued server command: /tpa Ezzprogamer769
+[03:46:51] [Server thread/INFO]: BenRui issued server command: /home home
+[03:46:55] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[03:46:55] [Server thread/INFO]: fredbear2022 left the game.
+[03:46:56] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:47:01] [Server thread/INFO]: Ezzprogamer769 issued server command: /home run
+[03:47:11] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:47:15] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:47:24] [Thread-169/INFO]: UUID of player fredbear2022 is 3922db01-0324-333d-879f-88918033c157
+[03:47:24] [Server thread/INFO]: fredbear2022[/[0:0:0:0:0:0:0:1]:44438] logged in with entity id 61777 at ([world]182.53747663175392, 40.0, 526.2286924653248)
+[03:47:25] [Server thread/INFO]: achillguy2012 issued server command: /spawn
+[03:47:28] [Server thread/INFO]: achillguy2012 issued server command: /home 99
+[03:47:35] [Server thread/INFO]: fredbear2022 was slain by Ezzprogamer769
+[03:47:38] [Server thread/INFO]: fredbear2022 issued server command: /back
+[03:47:40] [Server thread/INFO]: 3LYAS_X issued server command: /back
+[03:47:41] [Thread-170/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[03:47:41] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:59886] logged in with entity id 61985 at ([world]272.06394586557275, 66.0, 467.8374920591821)
+[03:47:50] [Server thread/INFO]: Ezzprogamer769 was slain by fredbear2022
+[03:47:51] [Server thread/INFO]: 3LYAS_X issued server command: /tpa fredbear2022
+[03:47:53] [Server thread/INFO]: Ezzprogamer769 issued server command: /back
+[03:47:54] [Server thread/INFO]: fredbear2022 issued server command: /tpaccept
+[03:47:58] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:01] [Server thread/INFO]: Ezzprogamer769 issued server command: /back
+[03:48:01] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:04] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:07] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:08] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[03:48:08] [Server thread/INFO]: Ezzprogamer769 left the game.
+[03:48:22] [Thread-171/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[03:48:22] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:50214] logged in with entity id 62225 at ([world]168.5, 68.0, 256.5)
+[03:48:28] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:28] [Server thread/INFO]: achillguy2012 issued server command: /tpa Ezzprogamer769
+[03:48:31] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:34] [Server thread/INFO]: BenRui was slain by Zombie
+[03:48:36] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpaccept
+[03:48:36] [Server thread/INFO]: Ezzprogamer769 issued server command: /tpaccept
+[03:48:36] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:38] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:48:38] [Server thread/INFO]: achillguy2012 issued server command: /tpa Ezzprogamer769
+[03:48:42] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:48:43] [Server thread/INFO]: fredbear2022 issued server command: /back
+[03:48:44] [Server thread/INFO]: achillguy2012 issued server command: /tpa Ezzprogamer769
+[03:48:46] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:48:56] [Server thread/INFO]: BenRui was slain by fredbear2022
+[03:48:56] [Server thread/INFO]: fredbear2022 was slain by 3LYAS_X
+[03:48:58] [Server thread/INFO]: fredbear2022 was slain by 3LYAS_X
+[03:48:58] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:48:59] [Server thread/INFO]: achillguy2012 issued server command: /home home
+[03:49:02] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:49:04] [Server thread/INFO]: fredbear2022 was slain by 3LYAS_X
+[03:49:05] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[03:49:05] [Server thread/INFO]: Ezzprogamer769 left the game.
+[03:49:14] [Server thread/INFO]: BenRui lost connection: Disconnected
+[03:49:14] [Server thread/INFO]: BenRui left the game.
+[03:49:18] [Server thread/INFO]: dream769 issued server command: /tpa BenRui
+[03:49:18] [Thread-172/INFO]: UUID of player BenRui is 14676d34-663d-3eef-86ad-5f520b456386
+[03:49:18] [Server thread/INFO]: BenRui[/[0:0:0:0:0:0:0:1]:34480] logged in with entity id 62743 at ([world]168.39683728758916, 67.4807108763317, 256.57661740068164)
+[03:49:27] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:49:36] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:49:41] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:49:44] [Server thread/INFO]: BenRui tried to swim in lava to escape fredbear2022
+[03:49:48] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:49:56] [Server thread/WARN]: BenRui moved wrongly!
+[03:50:00] [Thread-173/INFO]: UUID of player Ezzprogamer769 is 719834f7-d0e8-3459-918f-9b8c201010e3
+[03:50:00] [Server thread/INFO]: Ezzprogamer769[/[0:0:0:0:0:0:0:1]:50772] logged in with entity id 62947 at ([world]168.69999998807907, 68.0, 256.36702873323827)
+[03:50:17] [Server thread/INFO]: dream769 lost connection: Disconnected
+[03:50:17] [Server thread/INFO]: dream769 left the game.
+[03:50:22] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:50:27] [Server thread/INFO]: Ezzprogamer769 was slain by 3LYAS_X
+[03:50:27] [Server thread/INFO]: Ezzprogamer769 lost connection: Disconnected
+[03:50:27] [Server thread/INFO]: Ezzprogamer769 left the game.
+[03:50:28] [Server thread/INFO]: achillguy2012 issued server command: /tpa 3LYAS_X
+[03:50:34] [Thread-174/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[03:50:34] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:50908] logged in with entity id 63355 at ([world]383.45138742213976, 63.48071087633169, 376.11764576049393)
+[03:50:41] [Server thread/INFO]: fredbear2022 lost connection: Disconnected
+[03:50:41] [Server thread/INFO]: fredbear2022 left the game.
+[03:50:51] [Server thread/INFO]: achillguy2012 issued server command: /tpa 3LYAS_X
+[03:51:00] [Server thread/INFO]: achillguy2012 lost connection: Disconnected
+[03:51:00] [Server thread/INFO]: achillguy2012 left the game.
+[03:51:13] [Server thread/INFO]: BenRui issued server command: /gamemode
+[03:51:34] [Server thread/INFO]: Begon_99 issued server command: /tpa 3LYAS_X
+[03:51:39] [Server thread/INFO]: dream769 issued server command: /home
+[03:51:45] [Server thread/INFO]: dream769 issued server command: /home home
+[03:51:46] [Server thread/INFO]: 3LYAS_X issued server command: /tpaccept
+[03:51:54] [Server thread/INFO]: dream769 suffocated in a wall
+[03:51:56] [Server thread/WARN]: Begon_99 moved too quickly! 2.302021713303617,1.2468000194787976,-13.31906728824174 (2.302021713303617, 1.2468000194787976, -13.31906728824174)
+[03:51:58] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:52:03] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:52:06] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:52:09] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:52:10] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:52:11] [Server thread/INFO]: Begon_99 issued server command: /tpa 3LYAS_X
+[03:52:13] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:52:14] [Server thread/INFO]: Begon_99 issued server command: /tpa 3LYAS_X
+[03:52:17] [Server thread/INFO]: 3LYAS_X issued server command: /tpaccept
+[03:52:27] [Server thread/INFO]: BenRui issued server command: /home
+[03:52:31] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:52:32] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:52:33] [Server thread/INFO]: dream769 issued server command: /
+[03:52:49] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:52:58] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:53:07] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:53:13] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:53:21] [Server thread/INFO]: BenRui was slain by Zombie
+[03:53:24] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:53:25] [Server thread/INFO]: BenRui issued server command: /back
+[03:53:26] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:53:28] [Server thread/INFO]: dream769 was slain by 3LYAS_X
+[03:53:32] [Server thread/INFO]: dream769 issued server command: /home home
+[03:53:33] [Server thread/INFO]: dream769 lost connection: Disconnected
+[03:53:33] [Server thread/INFO]: dream769 left the game.
+[03:53:36] [Server thread/INFO]: BenRui was slain by Begon_99
+[03:53:46] [Server thread/INFO]: BenRui issued server command: /back
+[03:53:46] [Thread-175/INFO]: UUID of player dream769 is de4b5135-1bd7-3953-b763-a9cf4b6b82d3
+[03:53:46] [Server thread/INFO]: dream769[/[0:0:0:0:0:0:0:1]:38292] logged in with entity id 65385 at ([world]168.5, 69.0, 256.5)
+[03:53:47] [Server thread/INFO]: BenRui was slain by Begon_99
+[03:54:00] [Server thread/INFO]: BenRui issued server command: /back
+[03:54:10] [Server thread/INFO]: dream769 lost connection: Disconnected
+[03:54:10] [Server thread/INFO]: dream769 left the game.
+[03:54:10] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:54:14] [Server thread/INFO]: BenRui was slain by 3LYAS_X
+[03:54:16] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:54:24] [Server thread/INFO]: BenRui issued server command: /home BenRui
+[03:54:38] [Server thread/WARN]: BenRui moved wrongly!
+[03:54:44] [Server thread/INFO]: BenRui lost connection: Disconnected
+[03:54:44] [Server thread/INFO]: BenRui left the game.
+[03:55:46] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:55:50] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:55:58] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:56:01] [Server thread/INFO]: Begon_99 issued server command: /back
+[03:56:04] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:56:09] [Server thread/INFO]: Begon_99 was slain by 3LYAS_X
+[03:56:11] [Server thread/INFO]: Begon_99 issued server command: /back
